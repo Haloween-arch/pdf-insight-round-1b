@@ -1,0 +1,36 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+
+# Git & IDE
+.git/
+.gitignore
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Docker build junk
+*.whl
+*.egg-info/
+*.dist-info/
+build/
+dist/
+
+# Ignore input/output data
+app/input/*
+app/output/*
+
+# Keep model folder, but ignore everything else in app/models EXCEPT MiniLM
+app/models/*
+!app/models/all-MiniLM-L6-v2/

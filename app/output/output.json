@@ -1,0 +1,130 @@
+{
+  "metadata": {
+    "documents": [
+      "South of France - Cities.pdf",
+      "South of France - Cuisine.pdf",
+      "South of France - Traditions and Culture.pdf",
+      "South of France - History.pdf",
+      "South of France - Restaurants and Hotels.pdf",
+      "South of France - Tips and Tricks.pdf",
+      "South of France - Things to Do.pdf"
+    ],
+    "persona": "Travel Blogger",
+    "job": "Create a detailed itinerary blog post about the South of France focusing on food, cities, and local traditions.",
+    "timestamp": "2025-07-28T13:24:35.227522"
+  },
+  "extracted_sections": [
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page": 1,
+      "section_title": "The South of France, known for its stunning landscapes, rich cultural heritage, and",
+      "importance_rank": 1
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page": 1,
+      "section_title": "understanding of what makes this region so",
+      "importance_rank": 2
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page": 1,
+      "section_title": "The South of France, with its picturesque landscapes, charming villages, and vibrant cities,",
+      "importance_rank": 3
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page": 1,
+      "section_title": "the various traditions and cultural aspects of the South of France, providing a",
+      "importance_rank": 4
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page": 1,
+      "section_title": "festivals, and local practices that reflect its distinct identity. This guide will take you",
+      "importance_rank": 5
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page": 1,
+      "section_title": "A Comprehensive Guide to Traditions and Culture in the South of F",
+      "importance_rank": 6
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page": 1,
+      "section_title": "Planning, and E",
+      "importance_rank": 7
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page": 1,
+      "section_title": "region, known for its rich history and diverse influences, oﬀers a unique blend of customs,",
+      "importance_rank": 8
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page": 1,
+      "section_title": "The Ultimate South of France Travel Companion: Your Comprehensive Guide to Packing,",
+      "importance_rank": 9
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page": 1,
+      "section_title": "luxurious experiences, this guide will help you find the perfect restaurants and hotels for",
+      "importance_rank": 10
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page": 1,
+      "refined_text": "Comprehensive Guide to Restaurants and Hotels in the South of F I The South of France, known for its stunning landscapes, rich cultural heritage, and cuisine, is a dream destination for travelers  Fro"
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page": 1,
+      "refined_text": "A Comprehensive Guide to Traditions and Culture in the South of F I The South of France, with its picturesque landscapes, charming villages, and vibrant cities, not only a feast for the eyes but also "
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page": 1,
+      "refined_text": "A Comprehensive Guide to Traditions and Culture in the South of F I The South of France, with its picturesque landscapes, charming villages, and vibrant cities, not only a feast for the eyes but also "
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page": 1,
+      "refined_text": "A Comprehensive Guide to Traditions and Culture in the South of F I The South of France, with its picturesque landscapes, charming villages, and vibrant cities, not only a feast for the eyes but also "
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page": 1,
+      "refined_text": "A Comprehensive Guide to Traditions and Culture in the South of F I The South of France, with its picturesque landscapes, charming villages, and vibrant cities, not only a feast for the eyes but also "
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page": 1,
+      "refined_text": "A Comprehensive Guide to Traditions and Culture in the South of F I The South of France, with its picturesque landscapes, charming villages, and vibrant cities, not only a feast for the eyes but also "
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page": 1,
+      "refined_text": "The Ultimate South of France Travel Companion: Your Comprehensive Guide to Packing, Planning, and E I Planning a trip to the South of France requires thoughtful preparation to ensure comfortable and e"
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "page": 1,
+      "refined_text": "A Comprehensive Guide to Traditions and Culture in the South of F I The South of France, with its picturesque landscapes, charming villages, and vibrant cities, not only a feast for the eyes but also "
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page": 1,
+      "refined_text": "The Ultimate South of France Travel Companion: Your Comprehensive Guide to Packing, Planning, and E I Planning a trip to the South of France requires thoughtful preparation to ensure comfortable and e"
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page": 1,
+      "refined_text": "Comprehensive Guide to Restaurants and Hotels in the South of F I The South of France, known for its stunning landscapes, rich cultural heritage, and cuisine, is a dream destination for travelers  Fro"
+    }
+  ]
+}
